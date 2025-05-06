@@ -44,3 +44,9 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore the .cxx directory
+android/app/.cxx/
+
+# Ignore the build directory
+android/build/
